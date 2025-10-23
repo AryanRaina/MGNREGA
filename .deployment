@@ -1,4 +1,5 @@
 [config]
 SCM_DO_BUILD_DURING_DEPLOYMENT=true
-SCM_TAR_CACHE=0
 WEBSITE_NODE_DEFAULT_VERSION=20.19.3
+PRE_BUILD_COMMAND=echo "Starting build process..."
+POST_BUILD_COMMAND=echo "Build completed successfully"
