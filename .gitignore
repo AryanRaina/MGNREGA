@@ -54,6 +54,9 @@ pids
 *.pem
 .AppleDouble
 .LSOverride
+AZURE_DEPLOYMENT.md
+AZURE_QUICKFIX.md
+DEPLOYMENT_STEPS.md
 
 # Thumbnails
 ._*
